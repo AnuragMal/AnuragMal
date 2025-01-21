@@ -1,4 +1,4 @@
-# Hello, I'm Anurag Malish
+# Hello, I'm Anurag Malish 👋
 <a href="https://www.linkedin.com/in/anurag-malish-8a3155277/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in Cyber Secuirty and a dedication to solving complex problems.
