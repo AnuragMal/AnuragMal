@@ -3,7 +3,7 @@
 
 I am a recent graduate with a profound interest in cybersecuirty and a dedication to solving complex problems.
 
-### Objective
+## Objective
 
 My journey in cybersecurity  has led me to develop a passion for cybersecurity, and I am passionate about this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
