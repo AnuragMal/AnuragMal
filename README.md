@@ -5,10 +5,9 @@ I am a recent graduate with a profound interest in cybersecuirty and a dedicatio
 
 ## Objective
 
-Hi! I'm a passionate cyber security student, looking to discover new challenges and opportunities and meet like-minded peers along the way.Hi! I'm a passionate cyber security student, looking to discover new challenges and opportunities and meet like-minded peers along the way.
+Keen to discover new challenges and opportunities in the world of cybersecurity while meeting like-minded peers along the way. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,6 +15,7 @@ Hi! I'm a passionate cyber security student, looking to discover new challenges 
 
 
 ## Tools
+
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF7A00?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
