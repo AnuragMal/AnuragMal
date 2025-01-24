@@ -16,16 +16,21 @@ Hi! I'm a passionate cyber security student, looking to discover new challenges 
 
 
 ## Tools
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF7A00?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Virtual%20Machine-0078D6?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+
+
 </div>
 
 ## Programming
 <div>
 <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-6A1B9A?&style=for-the-badge&logo=Java&logoColor=white
+<img src="https://img.shields.io/badge/-SQL-6A1B9A?&style=for-the-badge&logo=MySQL&logoColor=white" />
+
+
 
 </div>
 
