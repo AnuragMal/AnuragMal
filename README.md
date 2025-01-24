@@ -20,8 +20,13 @@ Hi! I'm a passionate cyber security student, looking to discover new challenges 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF7A00?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-
 </div>
+
+## Programming
+<div>
+<img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+</div>
+
 
 ## Certifications
 <div>
