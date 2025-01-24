@@ -25,6 +25,8 @@ Hi! I'm a passionate cyber security student, looking to discover new challenges 
 ## Programming
 <div>
 <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-6A1B9A?&style=for-the-badge&logo=Java&logoColor=white
+
 </div>
 
 
