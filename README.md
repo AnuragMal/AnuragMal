@@ -22,7 +22,6 @@ Keen to discover new challenges and opportunities in the world of cybersecurity 
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Virtual%20Machine-0078D6?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
-
 </div>
 
 ## Programming
@@ -39,6 +38,8 @@ Keen to discover new challenges and opportunities in the world of cybersecurity 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Forage-00A6A6?&style=for-the-badge&logo=Forage&logoColor=white" />
+
 </div>
 
 ## Projects
