@@ -11,7 +11,7 @@ Keen to discover new challenges and opportunities in the world of cybersecurity 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/AnuragMal/Detection-Lab"> Detection Lab </a>|
+| Home Lab          | <a href="https://github.com/AnuragMal/Detection-Lab"> Detection Lab </a>|
 
 
 ## Tools
@@ -32,7 +32,6 @@ Keen to discover new challenges and opportunities in the world of cybersecurity 
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
-
 
 </div>
 
